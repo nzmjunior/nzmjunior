@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there! 😁
 
-<!--
-**nzmjunior/nzmjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Onezimo Junior from Brazil (🇧🇷). 
+I am the father of two beautiful girls, married to a wonderful wife.
 
-Here are some ideas to get you started:
+I've been working as Front-End Developer since 2003
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) .
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onezimo-junior)](https://www.linkedin.com/in/onezimo-junior)
+
+
+
+
